@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import streamlit as st
-import time
+import time #imports time module
 
 #Calls a list of words from a json file
 import json
